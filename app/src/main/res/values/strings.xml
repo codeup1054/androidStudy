@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">00.Empty</string>
+    <string name="hello" translatable="false">"Привет, Мир. "</string>
+</resources>
